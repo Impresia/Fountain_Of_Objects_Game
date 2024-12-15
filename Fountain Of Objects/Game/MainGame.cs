@@ -221,12 +221,16 @@ namespace Fountain_Of_Objects.Game
         {
             (int, int)[] newList = new (int, int)[array.Length];
 
-            while (array[0]==(0,0))
-            {
-                array[0] = (random.Next(maxRow + 1), random.Next(maxCol + 1));                
-            }
 
-           newList[0] = array[0];
+            for(int i = 0; i < array.Length; i++)
+            {
+                while (array[i]== (0, 0))
+                {
+                    array[i] = (random.Next(maxRow + 1), random.Next(maxCol + 1));
+                }
+                newList[i] = array[i];
+            }    
+           
 
             for(int i =1; i < array.Length; i++ )
             {

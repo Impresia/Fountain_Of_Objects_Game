@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Saba\\Desktop\\For GITHUB\\Fountain Of Objects\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CDCC8435-4C72-4E0F-BC3A-CDA4EC367409}|Fountain Of Objects\\Fountain Of Objects.csproj|c:\\users\\saba\\desktop\\for github\\fountain of objects\\fountain of objects\\game\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDCC8435-4C72-4E0F-BC3A-CDA4EC367409}|Fountain Of Objects\\Fountain Of Objects.csproj|solutionrelative:fountain of objects\\game\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CDCC8435-4C72-4E0F-BC3A-CDA4EC367409}|Fountain Of Objects\\Fountain Of Objects.csproj|c:\\users\\saba\\desktop\\for github\\fountain of objects\\fountain of objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDCC8435-4C72-4E0F-BC3A-CDA4EC367409}|Fountain Of Objects\\Fountain Of Objects.csproj|solutionrelative:fountain of objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainGame.cs",
+              "DocumentMoniker": "C:\\Users\\Saba\\Desktop\\For GITHUB\\Fountain Of Objects\\Fountain Of Objects\\Game\\MainGame.cs",
+              "RelativeDocumentMoniker": "Fountain Of Objects\\Game\\MainGame.cs",
+              "ToolTip": "C:\\Users\\Saba\\Desktop\\For GITHUB\\Fountain Of Objects\\Fountain Of Objects\\Game\\MainGame.cs",
+              "RelativeToolTip": "Fountain Of Objects\\Game\\MainGame.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAUwPIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:36:22.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Saba\\Desktop\\For GITHUB\\Fountain Of Objects\\Fountain Of Objects\\Program.cs",
               "RelativeDocumentMoniker": "Fountain Of Objects\\Program.cs",
               "ToolTip": "C:\\Users\\Saba\\Desktop\\For GITHUB\\Fountain Of Objects\\Fountain Of Objects\\Program.cs",
               "RelativeToolTip": "Fountain Of Objects\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-11-06T11:31:50.509Z",
               "EditorCaption": ""
