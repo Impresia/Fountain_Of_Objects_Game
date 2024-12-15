@@ -19,8 +19,8 @@ Amaroks Challenge -- Amaroks roam the caverns. Encountering one is certain death
 Full Game Challenge--Contains both Pits and Amaroks!
 
 
-You can add bonus Maelstrom challenge to each of above:
-aelstroms challenge -- Maelstroms are violent forces of sentient wind.
+You can add bonus maelstrom challenge to each of above:
+maelstroms challenge -- Maelstroms are violent forces of sentient wind.
                       Entering a room with one could transport you to 1 room up and 2 room right.
                       Maelstrom will move itself 1 room bottom and 2 room left in the caverns.
                       If the player will sweep away to another dangerous location, such as a pit,
@@ -30,7 +30,9 @@ aelstroms challenge -- Maelstroms are violent forces of sentient wind.
 
 
 for 4x4 board----there can be 1 maelstrom, 1 amarok, 1 pit
+
 for 6x6 board----there can be 1 maelstrom, 2 amarok, 2 pit
+
 for 8x8 board----there can be 2 maelstrom, 3 amarok, 4 pit
 
 
